@@ -31,7 +31,7 @@ There are different distributions that are accesible for the Windows Subsystem E
 
 ## Availability for automation through shell scripts
 
-The following shell script will give you all you need to run a [Windows Subsystem for Linux](src/)
+> The following shell script will give you all you need to run a [Windows Subsystem for Linux](src/)
 
 ```shell
 #refer to src/main.sh for more information
