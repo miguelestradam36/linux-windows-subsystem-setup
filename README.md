@@ -29,12 +29,9 @@ There are different distributions that are accesible for the Windows Subsystem E
 3. ### Kali
    - Used mostly for **cybersecurity** purposes, availability of being able to customize the operating system
 
-### Ubuntu
-
-
-
-
 ## Availability for automation through shell scripts
+
+The following shell script will give you all you need to run a [Windows Subsystem for Linux](src/)
 
 ```shell
 #refer to src/main.sh for more information
