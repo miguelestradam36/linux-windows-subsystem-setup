@@ -31,10 +31,17 @@ There are different distributions that are accesible for the Windows Subsystem E
 
 ### Availability for automation through shell scripts
 
+---
 
 > The following shell script will give you all you need to run a [Windows Subsystem for Linux](src/)
 
+---
 
-```shell
-#refer to src/main.sh for more information
-```
+> For a more detailed step by step guide, please direct to the following: [Documentation](docs/)
+
+
+| Developer | Action |
+| ----------- | ----------- |
+| Miguel Estrada Murillo | Windows Sub-system for Linux, brief documentation and comprehension |
+
+[^1]: For more detailed information please consult to: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com).
