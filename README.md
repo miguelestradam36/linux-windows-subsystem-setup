@@ -33,12 +33,9 @@ There are different distributions that are accesible for the Windows Subsystem E
 
 ---
 
-> The following shell script will give you all you need to run a [Windows Subsystem for Linux](src/)
-
----
-
 > For a more detailed step by step guide, please direct to the following: [Documentation](docs/)
 
+\
 
 | Developer | Action |
 | ----------- | ----------- |
