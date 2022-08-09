@@ -35,10 +35,7 @@ There are different distributions that are accesible for the Windows Subsystem E
 
 > For a more detailed step by step guide, please direct to the following: [Documentation](docs/)
 
-\
 
-| Developer | Action |
-| ----------- | ----------- |
-| Miguel Estrada Murillo | Windows Sub-system for Linux, brief documentation and comprehension |
-
-[^1]: For more detailed information please consult to: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com).
+[^1]: For more detailed information please consult to: [miguelestradam36@gmail.com](mailto:miguelestradam36@gmail.com) or direct to:
+- [How to install](https://docs.microsoft.com/en-us/windows/wsl/install)
+- [About Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about)
