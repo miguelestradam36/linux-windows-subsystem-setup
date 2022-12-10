@@ -28,3 +28,15 @@ Step by step guide:
     The above command only works if WSL is not installed at all, if you run wsl --install and see the WSL help text, please try running:
 
 `wsl --list --online` to see a list of available distros and run `wsl --install -d <DistroName>` to install a distro.
+
+### NOTE: Windows files are accesible from Linux distribution
+
+`/mnt/c/Users/[USER]/[DIRECTORY]`
+
+Through the mnt directory you will be able to access the disks available on the computer.
+
+In most cases `c` is the name of the disk.
+
+#### Reference
+
+[Access Windows Files](https://superuser.com/questions/1083962/windows-linux-subsystem-accessing-files-outside-of-ubuntu)
